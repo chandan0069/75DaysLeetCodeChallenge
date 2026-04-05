@@ -50,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
