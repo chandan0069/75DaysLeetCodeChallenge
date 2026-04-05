@@ -7,13 +7,14 @@ class Solution(object):
         """
         n=len(matrix)
         m=len(matrix[0])
-        i=0
-        j=m-1
-        while (i<n and j>=0):
-            if matrix[i][j]==target:
+        low=0
+        high=(n*m)-1
+        while low<=high:
+            mid = (low+(high-low)/2)
+            if matrix[mid/m][mid%m]==target:
                 return True
-            if matrix[i][j]>target:
-                j-=1
+            if matrix[mid/m][mid%m]>target:
+                high=mid-1
             else:
-                i+=1
+                low=mid+1
         return False
