@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +142,5 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
