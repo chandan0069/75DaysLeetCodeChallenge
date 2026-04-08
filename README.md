@@ -145,4 +145,12 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
