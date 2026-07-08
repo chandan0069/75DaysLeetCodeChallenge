@@ -31,6 +31,7 @@
 | [0739-daily-temperatures](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3838-weighted-word-mapping](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0344-reverse-string](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [3838-weighted-word-mapping](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [3838-weighted-word-mapping](https://github.com/chandan0069/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
